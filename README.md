@@ -1,2 +1,2 @@
-# say--tahmin-oyunu
+# sayı--tahmin-oyunu
 "Python ile basit sayı tahmin oyunu"
